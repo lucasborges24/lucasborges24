@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">Full-stack developer in development at Driven Education from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasborges24&label=Profile%20views&color=0e75b6&style=flat" alt="lucasborges24" /> </p>
+
+
+- 🔭 I’m currently working on [Xablaum!](https://github.com/lucasborges24/projeto14-xablaum-front)
+
+- 💬 Ask me about **react, node, express**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,5 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucasborges24&show_icons=true&locale=en&layout=compact" alt="lucasborges24" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasborges24&" alt="lucasborges24" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasborges24&label=Profile%20views&color=0e75b6&style=flat" alt="lucasborges24" /> </p>
