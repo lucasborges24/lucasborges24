@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer in development at Driven Education from Brazil</h3>
 
 
-- 🔭 I’m currently working on [BoardCamp - Back-end](https://github.com/lucasborges24/projeto15-boardcamp)
+- 🔭 I’m currently working on [Shortly API](https://github.com/lucasborges24/projeto16-shortly) 
 
 - 💬 Ask me about **react, node, express**
 
