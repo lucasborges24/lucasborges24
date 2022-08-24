@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer in development at Driven Education from Brazil</h3>
 
 
-- 🔭 I’m currently working on ![Linkr API]([https://github.com/lucasborges24/projeto16-shortly](https://github.com/lucasborges24/projeto17-linkr-back)) 
+- 🔭 I’m currently working on [Linkr API](https://github.com/lucasborges24/projeto17-linkr-back) 
 
 - 💬 Ask me about **react, node, express**
 
