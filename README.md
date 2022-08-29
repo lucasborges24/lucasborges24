@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Linkr API](https://github.com/lucasborges24/projeto17-linkr-back) and [Linkr front](https://github.com/nando-castro/projeto17-linkr-front)
 
-- 💬 Ask me about **react, node, express**
+- 💬 Ask me about **React, Nodejs, Express, MongoDb and PostgresSQL**
 
 
 
