@@ -2,9 +2,9 @@
 <h3 align="center">Full-stack developer in development at Driven Education from Brazil</h3>
 
 
-- 🔭 I’m currently working on [Linkr API](https://github.com/lucasborges24/projeto17-linkr-back) and [Linkr front](https://github.com/nando-castro/projeto17-linkr-front)
+- 🔭 I’m currently working on [DrivenPass API](https://github.com/lucasborges24/projeto19-drivenpass)
 
-- 💬 Ask me about **React, Nodejs, Express, MongoDb and PostgresSQL**
+- 💬 Ask me about **React, Nodejs, Express, MongoDb, Typescript and PostgresSQL**
 
 
 
