@@ -3,6 +3,7 @@
 
 
 - 🔭 I’m currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
+<br></br>
 
 - 🔗 **Back** Skills:
 <div align="center">
@@ -14,8 +15,11 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/>
 </div>
+<br></br>
 
 - 💬 **Front** Skills:
+
+
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" height="30px"/>
