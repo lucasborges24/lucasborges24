@@ -12,7 +12,8 @@
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" height="30px"/>
 </div>
-- 💬 Front Skills:
+
+- 💬 **Front** Skills:
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="30px"/>
@@ -20,13 +21,18 @@
   
 </div>
 
+<hr></hr>
 
 
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" /></p>
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas-b-barbosa-12a157216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-b-barbosa-12a157216" height="30" width="40" /></a>
-<a href="https://instagram.com/lucas__fisica" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucas__fisica" height="30" width="40" /></a>
-</p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasborges24&label=Profile%20views&color=0e75b6&style=flat" alt="lucasborges24" /> </p>
+
+[![gitHub](https://img.shields.io/badge/-GitHub-181717?logo=gitHub&logoColor=white&style=for-the-badge)](https://github.com/lucasborges24)
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![AGPL License](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/lucas__fisica/)
+
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
+[linkedin-url]: https://www.linkedin.com/in/lucas-b-barbosa-12a157216/
