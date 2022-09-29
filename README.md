@@ -19,7 +19,6 @@
 
 - 💬 **Front** Skills:
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" height="30px"/>
