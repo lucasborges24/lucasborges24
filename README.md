@@ -2,7 +2,7 @@
 <h3 align="center">Full-stack developer in development at Driven Education from Brazil</h3>
 
 
-- 🔭 I’m currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
+- 🔭 I am currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
 <br></br>
 
 - 🔗 **Back** Skills:
