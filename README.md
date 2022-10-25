@@ -5,36 +5,43 @@
 - 🔭 I'm currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
 <br></br>
 
-- 🔗 **Back** Skills:
-<div align="center">
+<h2> ✔️ Back Skills</h2>
+<div align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="30px"/> 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=Jest&logoColor=white" height="30px"/>
+   <br></br>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white" height="30px"/>
+  <img src="https://img.shields.io/badge/Aws-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" height="30px"/>
 </div>
 <br></br>
 
-- 💬 **Front** Skills:
+<h2> ✅ Front Skills</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=React&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=Cypress&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" height="30px"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" height="30px"/>
-  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" height="30px"/>
 </div>
 
 <hr></hr>
 
+<div align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborges24&layout=compact&langs_count=16&theme="dracula"/>
+</div>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" /></p>
+<hr></hr>
 
-<h3 align="left">Connect with me:</h3>
+### Connect with me:
 
-[![gitHub](https://img.shields.io/badge/-GitHub-181717?logo=gitHub&logoColor=white&style=for-the-badge)](https://github.com/lucasborges24)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasborgesbarbosa2012@gmail.com)
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![AGPL License](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/lucas__fisica/)
 
@@ -42,3 +49,16 @@
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://www.linkedin.com/in/lucas-b-barbosa-12a157216/
+
+
+
+
+
+
+
+
+
+
+
+
+
