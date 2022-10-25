@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">Full-stack developer in development at Driven Education from Brazil</h3>
+<h1 align="center">Olá 👋, Sou Lucas!</h1>
+<h3 align="center">Desenvolvedor Full-stack em desenvolvimento pela Driven Education</h3>
 
 
-- 🔭 I'm currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
-<br></br>
+<!-- - 🔭 I'm currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
+<br></br> -->
 
 <h2> ✔️ Back Skills</h2>
 <div align="left">
