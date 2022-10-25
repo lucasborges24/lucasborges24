@@ -33,7 +33,7 @@
 <hr></hr>
 
 <div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" />
+  <img height="200px" align="left" src="https://github-readme-stats.vercel.app/api?username=lucasborges24&show_icons=true&locale=en" alt="lucasborges24" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasborges24&layout=compact&langs_count=16&theme="dracula"/>
 </div>
 
