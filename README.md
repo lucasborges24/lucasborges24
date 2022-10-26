@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Sou Lucas!</h1>
-<h3 align="center">Desenvolvedor Full-stack em desenvolvimento pela Driven Education</h3>
+<!-- <h3 align="center">Desenvolvedor Full-stack em desenvolvimento pela Driven Education</h3> -->
 
 
 <!-- - 🔭 I'm currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
