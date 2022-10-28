@@ -44,7 +44,6 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasborgesbarbosa2012@gmail.com)
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![AGPL License](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/lucas__fisica/)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
