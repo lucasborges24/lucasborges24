@@ -1,6 +1,13 @@
 <h1 align="center">Olá 👋, Sou o Lucas!</h1>
 <!-- <h3 align="center">Desenvolvedor Full-stack em desenvolvimento pela Driven Education</h3> -->
 
+- 👨‍🎓⚛️ Aos 15 anos me aventurei a cursar Física - Bacharelado na UFG, no qual sou atualmente graduado! 
+
+- 📖 No meio da jornada amadureci meus desejos e percebi o que cativava meu coração: tecnologia! 
+Conheci ferramentas científicas como LaTeX e Gnuplot e aprendi o básico de Python e C até me deparar com a carreira de Desenvolvedor Web, área que busco atuar. 
+
+- 🛠️ Praticamente formado na especialização da Driven Education para desenvolvedor FullStack, minhas principais ferramentas de uso são: 
+
 
 <!-- - 🔭 I'm currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
 <br></br> -->
