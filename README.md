@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Sou Lucas!</h1>
+<h1 align="center">Olá 👋, Sou o Lucas!</h1>
 <!-- <h3 align="center">Desenvolvedor Full-stack em desenvolvimento pela Driven Education</h3> -->
 
 - 👨‍🎓⚛️ Aos 15 anos me aventurei a cursar Física - Bacharelado na UFG, no qual sou atualmente graduado! 
