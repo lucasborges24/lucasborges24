@@ -6,7 +6,7 @@
 - 📖 No meio da jornada amadureci meus desejos e percebi o que cativava meu coração: tecnologia! 
 Conheci ferramentas científicas como LaTeX e Gnuplot e aprendi o básico de Python e C até me deparar com a carreira de Desenvolvedor Web, área que busco atuar. 
 
-- 🛠️ Praticamente formado na especialização da Driven Education para desenvolvedor FullStack, minhas principais ferramentas de uso são: 
+- 🛠️ Formado na especialização da Driven Education para desenvolvedor FullStack, minhas principais ferramentas de uso são: 
 
 
 <!-- - 🔭 I'm currently working on [Singme a song (tests)](https://github.com/lucasborges24/sing-me-a-song)
