@@ -41,7 +41,7 @@ Conheci ferramentas científicas como LaTeX e Gnuplot e aprendi o básico de Pyt
 
 <hr></hr>
 
-Atualmento trabalho como desenvolvedor full-stack na Universo Narrado
+Atualmente trabalho como desenvolvedor full-stack na Universo Narrado
 
 <hr></hr>
 
